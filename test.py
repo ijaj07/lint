@@ -1,6 +1,6 @@
 def hello():
-    print("hi")
+    return "hi"
 def bye():
-    print("bye")
+    return "bye"
 
 print(hello())
